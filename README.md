@@ -19,7 +19,6 @@ Currently learning and improving through coursework and personal projects, with 
 C, C++, C#, Java, Kotlin
 
 **Frontend**
-
 HTML, CSS
 
 **Databases:**  
