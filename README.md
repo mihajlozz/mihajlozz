@@ -18,7 +18,7 @@ Currently learning and improving through coursework and personal projects, with 
 **Programming Languages:**  
 C, C++, C#, Java, Kotlin
 
-** Frontend **
+**Frontend**
 
 HTML, CSS
 
